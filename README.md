@@ -29,14 +29,15 @@
 <h4>Tech Quiz – Brain meets buzzers</h4>
 <h3>🎮 Non-Technical Events</h3>
 <h4>Tech GamesUI/UX Challenges
-Surprise Fun Events</h4><center>
+Surprise Fun Events</h4>
+<center>
 <h3>
 HACK THE FUTURE,
 DEBUG TO WIN,
 CODE OR CRASH.</h3></center>
 <h4>🎤 GUEST TALKS & WORKSHOPS<br></h4>
 
-<h4> Learna from industry experts, innovators, and tech leaders who have turned failures into breakthroughs.
+<h4> Learn from industry experts, innovators, and tech leaders who have turned failures into breakthroughs.
 Topics include:<br>
 
 AI & Machine Learning<br>
@@ -44,8 +45,8 @@ Full Stack Development<br>
 Cybersecurity<br>
 Startup & Innovation<br></h4>
 <h4>🏆 WHY PARTICIPATE?<br></h4>
-<h4
-✅ National-level exposure<br>
+<h4>
+✅ National-level exposure <br>
 ✅ Certificates & exciting prizes<br>
 ✅ Networking with tech minds<br>
 ✅ Hands-on learning<br>
