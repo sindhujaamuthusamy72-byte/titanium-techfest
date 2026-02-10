@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Events</title>
+    
     <link rel="icon" href="img/date.png">
   </head>
     <body bgcolor=" purple" style="color:black">
