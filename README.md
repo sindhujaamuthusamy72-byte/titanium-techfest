@@ -3,7 +3,7 @@
 <html>
   <head>
     
-    <link rel="icon" href="img/date.png">
+    
   </head>
     <body bgcolor=" purple" style="color:black">
         <center>
