@@ -18,7 +18,6 @@
         <center>
         <img src="img/titanium image.jpeg" width="600" height="300">
         <h2>Think... Build...Break...Repeat</h2></center>
-    </center>
     <h3> 
 🧠 EVENTS HIGHLIGHTS</h3>
 <h3>💻 Technical Events</h3>
